@@ -7,5 +7,5 @@ Hi I'm Bobby! I have a technical background and hold a Masters of Engineering (M
 ## Portfolio Projects
 In this section I will list data analytics projects I have undertaken for fun in order to demonstrate my technical skills.
 
-1. Vizualize the Inc Top 5000 Company List 2014 in [Tableau] (https://public.tableau.com/shared/NPB9CX2B5?:display_count=n&:origin=viz_share_link)
+1. Vizualize the Inc Top 5000 Company List 2014 in [Tableau](https://public.tableau.com/shared/NPB9CX2B5?:display_count=n&:origin=viz_share_link)
 2. 
