@@ -9,3 +9,4 @@ In this section I will list data analytics projects I have undertaken for fun in
 
 1. Visualize the Inc Top 5000 Company List 2014 in [Tableau](https://public.tableau.com/shared/NPB9CX2B5?:display_count=n&:origin=viz_share_link)
 2. Warren Buffet Stock Pick Coco-Cola in R Programming 
+3. Databases and SQL for Data Science Peer Assignment - Chicago Census Dataset
